@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "NEXORA is a modern creator-first social platform to create, share, discover, and connect with posts, reels, circles, stories, messaging, and creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
